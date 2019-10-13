@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//changes
 struct node
 {
     int data;
